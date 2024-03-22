@@ -1,5 +1,37 @@
 <h1 align="center">Hello, I'm Ilya</h1>
-<h2 align="center">Professional Web-Developer</h2>
+<h2 align="center">Professional Web-Developer and athlete</h2>
+<div align="center">
+
+</div>
+
+<div align="center">
+  <img  height="300px" src="https://github.com/kolen44/kolen44/assets/126617855/e2b2999a-1768-425d-a736-66815e549dc0">
+</div>
+
+
+
+
+
+## **🎓 About me**
+<a href="https://www.biography.com/political-figures/george-washington"><img align="left" width="100" src="https://github.com/kolen44/kolen44/assets/126617855/9d054849-ddc4-4b1f-a06e-aec24937eb03"></a>
+99% of failures come from people who make excuses.
+<br><br>
+
+
+
+## Washington
+<!-- <p align="center">
+	<img src="https://moe-counter.glitch.me/get/@kolen44?theme=moebooru-h"> <br/>
+</p> -->
+<a href="https://discord.com/users/738748102311280681"><img align="right" width="250" src="https://github.com/kolen44/kolen44/assets/126617855/b519f8ee-c932-446b-b672-4bd0ba8431ff"></a>
+<a href="https://github.com/MiyagawaMizu"><img align="left" width="100" src="https://github.com/kolen44/kolen44/assets/126617855/5e19cb14-7156-4d9d-b533-7e89ad99cd31"></a>
+
+```yaml
+Do what you can with what you have, where you are
+
+Theodore Roosevelt.
+```
+<!-- <br><br><br><br> -->
 <div align="center">
   <a href="https://github.com/kolen44">
   
