@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Ilya</h1>
 <h2 align="center">Web-Developer and athlete</h2>
 
-Cтек:
+Cтек(с соответствующими проектами):
 
 <div><a href='https://github.com/kolen44/Medianka'>JavaScript</a>, <a href='https://github.com/kolen44/heldent'>TypeScript</a></div>
 <div><a href='https://github.com/kolen44/Medianka'> React , Next</a></div>
