@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🖥️ Для фронтенда в основном использую <strong>Next.js</strong> с Tailwind CSS и Framer Motion.
+  🖥️ Для фронтенда в основном использую <strong>Next.js</strong> с Tailwind CSS и Framer Motion , а также SCSS.
 </p>
 
 <p align="center">
