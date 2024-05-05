@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🚀 Работаю с <strong>JavaScript</strong> и <strong>TypeScript</strong>, основной стек технологий - <strong>Nest.js</strong> и <strong>Next.js</strong>.
+  🚀 Работаю с <strong>JavaScript</strong> и <strong>TypeScript</strong>, в основном использую - <strong>Nest.js</strong> и <strong>Next.js</strong>.
 </p>
 
 <p align="center">
