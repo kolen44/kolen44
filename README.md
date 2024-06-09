@@ -35,5 +35,5 @@
 - **<div align="center">DevOps: Docker, Docker Compose</div>**
 - **<div align="center">Frontend: React, Next.js, Tailwind CSS, SCSS, Framer Motion</div>**
 - - **<div align="center">3D Development: Threejs, React Three Fiber, React Three Drei, Rapier </div>**
-- **<div align="center">Backend: Nest.js, PostgreSQL, TypeORM</div>**
+- **<div align="center">Backend: Nest.js, PostgreSQL, TypeORM, SQL</div>**
 - **<div align="center">Другие: Zustand (state manager), Node.js, Telegraf (для ботов)</div>**
