@@ -30,10 +30,10 @@
 - **<div align="center"><a href='https://github.com/kolen44/Medianka'>SCSS, Tailwind</a></div>**
 - **<div align="center"><a href='https://github.com/kolen44/JosephAIBotTg'>Telegraf, Docker</a></div>**
 
-## <div align="center">DevOps и дополнительные технологии:</div>
+## <div align="center">Технологии которые я использую:</div>
 
 - **<div align="center">DevOps: Docker, Docker Compose</div>**
 - **<div align="center">Frontend: React, Next.js, Tailwind CSS, SCSS, Framer Motion</div>**
 - - **<div align="center">3D Development: Threejs, React Three Fiber, React Three Drei, Rapier </div>**
-- **<div align="center">Backend: Nest.js, PostgreSQL, TypeORM, SQL</div>**
-- **<div align="center">Другие: Zustand (state manager), Node.js, Telegraf (для ботов)</div>**
+- **<div align="center">Backend: Nodejs, Nest.js, PostgreSQL, TypeORM, SQL, RabbitMQ</div>**
+- **<div align="center">Другие: Zustand (state manager), Telegraf (для ботов), Ethersjs</div>**
