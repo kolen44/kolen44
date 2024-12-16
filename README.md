@@ -20,7 +20,7 @@
   🐳 Использую <strong>Docker</strong> и <strong>Docker Compose</strong>. Создание и настройка <strong>Dockerfile</strong> и <strong>Docker Compose</strong> файлов.
 </p>
 
-## <div align="center">Стек (с соответствующими проектами) 📚:</div>
+## <div align="center">Основной стек (с соответствующими проектами) 📚:</div>
 
 - **<div align="center"><a href='https://github.com/kolen44/Medianka'>JavaScript</a>, <a href='https://github.com/kolen44/heldent'>TypeScript</a></div>** 
 - **<div align="center"><a href='https://github.com/kolen44/Medianka'>React, Next</a></div>**
