@@ -1,39 +1,4 @@
-<h1 align="center">Привет, меня зовут Илья . По стеку почти все что есть на рынке, от 🥖 до solidity😏</h1>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kolen44&theme=dark" />
+  <img src="https://github.com/user-attachments/assets/3fd7097e-1fbb-4702-93ed-acd177df15e4" />
 </p>
-
-<p align="center">
-  🚀 Работаю с <strong>JavaScript</strong> и <strong>TypeScript</strong>, в основном использую - <strong>Nest.js</strong> и <strong>Next.js</strong>.
-</p>
-
-<p align="center">
-  🖥️ Для фронтенда в основном использую <strong>Next.js</strong> с Tailwind CSS и Framer Motion , а также SCSS.
-</p>
-
-<p align="center">
-  💾 Работал с базами данных: <strong>MySQL</strong>, <strong>PostgreSQL</strong>, <strong>MongoDB</strong>. Использовал <strong>TypeORM</strong> для работы с ними в <strong>Nest.js</strong>.
-</p>
-
-<p align="center">
-  🐳 Использую <strong>Docker</strong> и <strong>Docker Compose</strong>. Создание и настройка <strong>Dockerfile</strong> и <strong>Docker Compose</strong> файлов.
-</p>
-
-## <div align="center">Основной стек (с соответствующими проектами) 📚:</div>
-
-- **<div align="center"><a href='https://github.com/kolen44/Medianka'>JavaScript</a>, <a href='https://github.com/kolen44/heldent'>TypeScript</a></div>** 
-- **<div align="center"><a href='https://github.com/kolen44/Medianka'>React, Next</a></div>**
-- **<div align="center"><a href='https://github.com/kolen44/heldent'>PostgreSQL, TypeORM</a></div>**
-- **<div align="center"><a href='https://github.com/kolen44/heldent'>Nest, Zustand (state manager)</a></div>**
-- **<div align="center"><a href='https://github.com/kolen44/JosephAIBotTg'>Node.js</a></div>**
-- **<div align="center"><a href='https://github.com/kolen44/Medianka'>SCSS, Tailwind</a></div>**
-- **<div align="center"><a href='https://github.com/kolen44/JosephAIBotTg'>Telegraf, Docker</a></div>**
-
-## <div align="center">Технологии которые я использую:</div>
-
-- **<div align="center">DevOps: Docker, Docker Compose</div>**
-- **<div align="center">Frontend: React, Next.js, Tailwind CSS, SCSS, Framer Motion</div>**
-- - **<div align="center">3D Development: Threejs, React Three Fiber, React Three Drei, Rapier </div>**
-- **<div align="center">Backend: Nodejs, Nest.js, PostgreSQL, TypeORM, SQL, RabbitMQ</div>**
-- **<div align="center">Другие: Zustand (state manager), Telegraf (для ботов), Ethersjs</div>**
