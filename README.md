@@ -1,4 +1,4 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3f49446a-d814-4e94-903c-72b7233f3284" />
+  <img width="2000" height="1333" alt="image" src="https://github.com/user-attachments/assets/e8b81648-4f5b-40d5-8cc2-58548bb944c0" />
 </p>
