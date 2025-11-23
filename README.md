@@ -1,4 +1,4 @@
 
 <p align="center">
-  <img width="2000" height="1333" alt="image" src="https://github.com/user-attachments/assets/e8b81648-4f5b-40d5-8cc2-58548bb944c0" />
+  <img width="2000" height="1333" alt="image" src="https://server.wallpaperalchemy.com/storage/wallpapers/156/berserk-guts-griffith-wallpaper-4k-resolution.jpg" />
 </p>
